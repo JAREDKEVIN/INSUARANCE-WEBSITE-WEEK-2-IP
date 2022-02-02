@@ -1,0 +1,97 @@
+/* GENERAL PAGE OUTLOOK*/
+*
+{
+Background-Color:rgb(240, 243, 243) ;
+font:montserrat;
+margin:0px;
+overflow: visible;
+flex-wrap: wrap;
+
+}
+
+/* NAVIGATION BAR*/
+ #brand
+ {
+font-size: 25px;
+margin: 0px;
+padding-right:50px;
+ }
+
+.member
+{
+  background-color:#23A6F0 ; 
+  height:40px;
+}
+
+#navigation
+{
+    justify-content:space-evenly;
+    flex: auto;
+    margin:0px;
+    display: flex;
+}
+
+ul li
+{
+    display:inline;
+   font-display:rgb(240, 243, 243) ;
+   font:montserrat; 
+}
+
+.links
+{
+
+   display: flex;
+    margin:0px;
+    padding-right: 20px;
+    width: auto;
+    list-style:none;
+    font-weight:bold ;
+    flex-wrap:wrap;
+    flex:content;
+    justify-content: space-between;
+    justify-content: space-evenly;
+
+}
+
+
+
+ .firstimage
+ {
+ 
+    overflow:visible;
+     margin: 0px;
+ 
+ }
+
+
+.best
+ {
+     margin-bottom:40px;
+     font-size: 33px;
+     align-items: center;
+     padding-left: 500px;
+     justify-content: center;
+     display: inline-flex;
+ }
+    
+ .small
+ {
+     margin-top: 20px;
+     padding-left: 500px;
+     justify-content: center;
+ }
+
+ .get
+ {
+     background-color:#23A6F0; 
+     height:40px;
+     
+ }
+
+ .learn
+ {
+     background-color:none; 
+     height:40px; 
+     
+ }

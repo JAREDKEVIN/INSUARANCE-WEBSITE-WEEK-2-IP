@@ -6,17 +6,27 @@ font:montserrat;
 margin:0px;
 overflow: visible;
 flex-wrap: wrap;
+<<<<<<< HEAD
 padding:0px;
+=======
+
+>>>>>>> 35a558f4d827fa827c7b61ecf6fb795985fe863d
 }
 
 /* NAVIGATION BAR*/
  #brand
  {
+<<<<<<< HEAD
 
 font-size: 25px;
 margin: 0px;
 padding-right:40px;
 
+=======
+font-size: 25px;
+margin: 0px;
+padding-right:50px;
+>>>>>>> 35a558f4d827fa827c7b61ecf6fb795985fe863d
  }
 
 .member
@@ -31,17 +41,41 @@ padding-right:40px;
     flex: auto;
     margin:0px;
     display: flex;
+<<<<<<< HEAD
     margin: 0px;
     padding:0px;
+=======
+>>>>>>> 35a558f4d827fa827c7b61ecf6fb795985fe863d
 }
 
 ul li
 {
     display:inline;
    font-display:rgb(240, 243, 243) ;
+<<<<<<< HEAD
    font:montserrat;
 }
 
+=======
+   font:montserrat; 
+}
+
+.links
+{
+
+   display: flex;
+    margin:0px;
+    padding-right: 20px;
+    width: auto;
+    list-style:none;
+    font-weight:bold ;
+    flex-wrap:wrap;
+    flex:content;
+    justify-content: space-between;
+    justify-content: space-evenly;
+
+}
+>>>>>>> 35a558f4d827fa827c7b61ecf6fb795985fe863d
 
 
 
@@ -50,8 +84,11 @@ ul li
  
     overflow:visible;
      margin: 0px;
+<<<<<<< HEAD
      border:0px;
      overflow: visible;
+=======
+>>>>>>> 35a558f4d827fa827c7b61ecf6fb795985fe863d
  
  }
 
@@ -60,15 +97,25 @@ ul li
  {
      margin-bottom:40px;
      font-size: 33px;
+<<<<<<< HEAD
    flex-wrap: wrap-reverse;
      padding-left: 500px;
      justify-content: "center";
+=======
+     align-items: center;
+     padding-left: 500px;
+     justify-content: center;
+>>>>>>> 35a558f4d827fa827c7b61ecf6fb795985fe863d
      display: inline-flex;
  }
     
  .small
  {
+<<<<<<< HEAD
      margin-top:0px;
+=======
+     margin-top: 20px;
+>>>>>>> 35a558f4d827fa827c7b61ecf6fb795985fe863d
      padding-left: 500px;
      justify-content: center;
  }
@@ -77,8 +124,11 @@ ul li
  {
      background-color:#23A6F0; 
      height:40px;
+<<<<<<< HEAD
      border-radius: 10px;
      
+=======
+>>>>>>> 35a558f4d827fa827c7b61ecf6fb795985fe863d
      
  }
 
@@ -86,6 +136,7 @@ ul li
  {
      background-color:none; 
      height:40px; 
+<<<<<<< HEAD
      border-radius: 10px;
  }
 
@@ -100,3 +151,7 @@ ul li
 }
  
  
+=======
+     
+ }
+>>>>>>> 35a558f4d827fa827c7b61ecf6fb795985fe863d

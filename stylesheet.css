@@ -6,14 +6,17 @@ font:montserrat;
 margin:0px;
 overflow: visible;
 flex-wrap: wrap;
+padding:0px;
 }
 
 /* NAVIGATION BAR*/
  #brand
  {
+
 font-size: 25px;
 margin: 0px;
 padding-right:40px;
+
  }
 
 .member
@@ -28,6 +31,8 @@ padding-right:40px;
     flex: auto;
     margin:0px;
     display: flex;
+    margin: 0px;
+    padding:0px;
 }
 
 ul li
@@ -55,7 +60,7 @@ ul li
  {
      margin-bottom:40px;
      font-size: 33px;
-     align-items: center;
+   
      padding-left: 500px;
      justify-content: "center";
      display: inline-flex;
@@ -63,7 +68,7 @@ ul li
     
  .small
  {
-     margin-top: 20px;
+     margin-top:0px;
      padding-left: 500px;
      justify-content: center;
  }
@@ -72,6 +77,8 @@ ul li
  {
      background-color:#23A6F0; 
      height:40px;
+     border-radius: 10px;
+     
      
  }
 
@@ -79,9 +86,16 @@ ul li
  {
      background-color:none; 
      height:40px; 
+     border-radius: 10px;
  }
 
 
-
+#firstbutton
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    float: "center";
+}
  
  

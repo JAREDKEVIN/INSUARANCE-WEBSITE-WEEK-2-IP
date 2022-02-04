@@ -60,7 +60,7 @@ ul li
  {
      margin-bottom:40px;
      font-size: 33px;
-   
+   flex-wrap: wrap-reverse;
      padding-left: 500px;
      justify-content: "center";
      display: inline-flex;
@@ -96,6 +96,7 @@ ul li
     align-items: center;
     justify-content: center;
     float: "center";
+  padding-left: 10px;
 }
  
  

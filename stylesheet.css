@@ -2,7 +2,7 @@
 *
 {
 Background-Color:rgb(240, 243, 243) ;
-font:montserrat;
+font-style:montserrat;
 margin:0px;
 overflow: visible;
 flex-wrap: wrap;
@@ -17,7 +17,6 @@ padding:0px;
 font-size: 25px;
 margin: 0px;
 padding-right:40px;
-
 font-size: 25px;
 margin: 0px;
 padding-right:50px;
@@ -29,26 +28,26 @@ padding-right:50px;
   height:40px;
 }
 
-#navigation
+
+.navigation
 {
-    justify-content:space-evenly;
-    flex: auto;
-    margin:0px;
-    display: flex;
+     display:flex;
+     justify-content: first baseline;
+     justify-content: space-evenly;
+      margin:0px;
     margin: 0px;
     padding:0px;
-    display:flex;
 }
 
 ul li
 {
     display:inline;
    font-display:rgb(240, 243, 243) ;
-   font:montserrat;
+   font-family:montserrat;
+
 }
 
-   font:montserrat; 
-}
+
 
 .links
 {
@@ -75,21 +74,22 @@ ul li
      margin: 0px;
      border:0px;
      overflow: visible;
+     border:0px;
+     padding-top:0px;
  
  }
 
 
 .best
  {
-     margin-bottom:40px;
-     font-size: 33px;
-   flex-wrap: wrap-reverse;
-     padding-left: 500px;
-     justify-content: "center";
-     align-items: center;
-     padding-left: 500px;
-     justify-content: center;
-     display: inline-flex;
+     
+      font-size: 33px;
+      justify-content: center;
+
+    
+   
+   
+     
  }
     
  .small
@@ -119,11 +119,11 @@ ul li
 
 #firstbutton
 {
-    display: flex;
+    
     align-items: center;
-    justify-content: center;
-    float: "center";
-  padding-left: 10px;
+    justify-content: space-between;
+    padding-left: 10px;
+    
 }
  
  

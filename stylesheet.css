@@ -7,7 +7,6 @@ margin:0px;
 overflow: visible;
 flex-wrap: wrap;
 padding:0px;
-
 }
 
 /* NAVIGATION BAR*/
@@ -85,10 +84,6 @@ ul li
      
       font-size: 33px;
       justify-content: center;
-
-    
-   
-   
      
  }
     
@@ -125,7 +120,48 @@ ul li
     padding-left: 10px;
     
 }
+
+.users
+{
+    display:flex;
+    justify-content: space-between;
+}
+
+#icons
+{
+  display:flex;
+    justify-content: space-between;  
+}
+
+#maps
+{
+    float:right;
+    size-adjust: 15px;
+}
+
+.blue
+{
+    background-color: blue;
+    margin:0px;
+    padding:0px;
+}
+
+#contact
+{
+    background-color: blue;
+    height:50px;
+    width: 100px;
+    position:absolute;
+}
+
+#user1
+{
+    border-radius: 5px;
+    box-sizing:border-box;
+    box-shadow: #23A6F0;
+}    
  
- 
-     
- }
+#block3
+{
+    display:flex;
+}

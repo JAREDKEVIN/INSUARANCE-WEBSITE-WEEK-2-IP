@@ -161,7 +161,27 @@ ul li
     box-shadow: #23A6F0;
 }    
  
+#block2
+{
+    display:flex;
+    align-items:center;
+    justify-content: space-between;
+    height:auto;
+    padding-bottom: 80px;
+    padding-top:80px;
+}
+
+
 #block3
 {
     display:flex;
+     padding-bottom: 80px;
+    padding-top:80px;
+}
+
+#industry
+{
+    font-size: 33px;
+    align-items: center;
+    justify-content: center;
 }

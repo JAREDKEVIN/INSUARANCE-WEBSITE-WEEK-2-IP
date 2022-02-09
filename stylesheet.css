@@ -84,15 +84,16 @@ ul li
      
       font-size: 33px;
       justify-content: center;
-     
+     text-align: center;
  }
     
  .small
  {
      margin-top:0px;
      margin-top: 20px;
-     padding-left: 500px;
      justify-content: center;
+     text-align: center;
+     align-content: center;
  }
 
  .get
@@ -100,6 +101,7 @@ ul li
      background-color:#23A6F0; 
      height:40px;
      border-radius: 10px;
+     text-align: center;
      
      
  }
@@ -184,4 +186,31 @@ ul li
     font-size: 33px;
     align-items: center;
     justify-content: center;
+    text-align: center;
+}
+
+#resolve
+{
+    align-content: center;
+    text-align: center;
+    padding-bottom: 60px;
+}
+
+.users
+{
+    size: 55px;
+    padding-bottom: 70px;
+}
+
+#pricing
+{
+text-align: center;
+font-size: 25px;
+padding-bottom: 20px;
+}
+
+.resolve
+{
+text-align: center;
+
 }

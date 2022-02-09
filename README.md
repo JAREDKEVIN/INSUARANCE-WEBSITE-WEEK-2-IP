@@ -8,7 +8,7 @@ Interact with our website to get inloved with all types of insuarance covers tha
 ## Setup/Installation Requirements
 *Make sure you have access to an updated browser
 *Click on the live link to access my GITHUB repository
-*Enjoy the very best by ordering from the website.
+*Enjoy the very best by experiencing our various insuarance options.
 
 ## Known Bugs
 Still under construction and improvements are beind made on a daily basis.

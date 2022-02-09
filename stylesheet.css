@@ -81,7 +81,6 @@ ul li
 
 .best
  {
-     
       font-size: 33px;
       justify-content: center;
      text-align: center;
@@ -102,6 +101,7 @@ ul li
      height:40px;
      border-radius: 10px;
      text-align: center;
+     display: flex;
      
      
  }
@@ -111,6 +111,7 @@ ul li
      background-color:none; 
      height:40px; 
      border-radius: 10px;
+     display: flex;
  }
 
 
@@ -213,4 +214,9 @@ padding-bottom: 20px;
 {
 text-align: center;
 
+}
+
+#contactus
+{
+    background-color: #252B42;
 }
